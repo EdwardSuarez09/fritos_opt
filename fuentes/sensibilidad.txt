@@ -1,0 +1,19 @@
+p: que es analisis de sensibilidad ?r: Mide como cambios en precios de insumos afectan tus costos y ganancias por producto
+p: para que sirve el analisis de sensibilidad ?r: Te ayuda a decidir si subir precios de venta, cambiar proveedor o reducir uso de un insumo antes de que te afecte
+p: que es sensibilidad ?r: Es ver que tan sensible es tu negocio cuando suben o bajan los precios de lo que compras
+p: que insumo subio mas en mayo ?r: HISTORIAL_VARIACION_MAX
+p: cual insumo subio mas ?r: HISTORIAL_VARIACION_MAX
+p: cuanto vendi el mes pasado ?r: HISTORIAL_VENTAS_MES
+p: cuanto vendi en mayo ?r: HISTORIAL_VENTAS_MES
+p: cuantas unidades vendi ?r: HISTORIAL_UNIDADES_MES
+p: cual producto vendio mas ?r: HISTORIAL_PRODUCTO_TOP
+p: que producto se vende mas ?r: HISTORIAL_PRODUCTO_TOP
+p: cuanto gaste en insumos ?r: HISTORIAL_GASTOS_MES
+p: que pasa si suben todos los precios ?r: ESCENARIO_PESIMISTA
+p: peor caso de precios ?r: ESCENARIO_PESIMISTA
+p: mejor caso de precios ?r: ESCENARIO_OPTIMISTA
+p: que pasa si bajan los precios ?r: ESCENARIO_OPTIMISTA
+p: como funciona el bot ?r: Puedes preguntarme sobre historial de ventas, variacion de precios o simular cambios como que pasa si la harina sube 15 por ciento
+p: que puedo preguntar ?r: Pregunta por ventas del mes, insumos que subieron mas, o simula cambios de precio como que pasa si el aceite sube 10 por ciento
+p: resumen del mes ?r: HISTORIAL_RESUMEN_MES
+p: dame un resumen de mayo ?r: HISTORIAL_RESUMEN_MES

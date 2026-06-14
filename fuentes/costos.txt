@@ -1,0 +1,15 @@
+p: cuanto gaste en insumos ?r: HISTORIAL_GASTOS_MES
+p: cuanto gaste en compras en mayo ?r: HISTORIAL_GASTOS_MES
+p: cuanto gaste en insumos en mayo ?r: HISTORIAL_GASTOS_MES
+p: que insumo subio mas en mayo ?r: HISTORIAL_VARIACION_MAX
+p: cual insumo subio mas ?r: HISTORIAL_VARIACION_MAX
+p: que insumo vario mas de precio ?r: HISTORIAL_VARIACION_MAX
+p: cuales insumos subieron mas ?r: HISTORIAL_TOP_VARIACION
+p: top 3 insumos que subieron ?r: HISTORIAL_TOP_VARIACION
+p: que semana gaste mas ?r: HISTORIAL_SEMANA_GASTO
+p: en que semana gaste mas en insumos ?r: HISTORIAL_SEMANA_GASTO
+p: cual es el insumo mas caro ?r: INSUMO_MAS_CARO
+p: que insumo cuesta mas ?r: INSUMO_MAS_CARO
+p: cual producto es mas rentable ?r: PRODUCTO_MAS_RENTABLE
+p: que producto da mas ganancia ?r: PRODUCTO_MAS_RENTABLE
+p: cual producto tiene mejor margen ?r: PRODUCTO_MAS_RENTABLE

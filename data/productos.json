@@ -1,0 +1,144 @@
+{
+  "papa_rellena": {
+    "id": "papa_rellena",
+    "nombre": "papa rellena",
+    "masa_id": "masa_tradicional",
+    "insumos_extra": {
+      "papas": 0.1,
+      "carne": 0.05
+    },
+    "precio_venta": 3500.0,
+    "demanda_estimada": 20,
+    "categoria": "Platos principales",
+    "demanda_diaria": {}
+  },
+  "empanada_carne": {
+    "id": "empanada_carne",
+    "nombre": "empanada de carne",
+    "masa_id": "masa_tradicional",
+    "insumos_extra": {
+      "carne_molida": 0.02,
+      "cebolla": 0.01
+    },
+    "precio_venta": 2500.0,
+    "demanda_estimada": 30,
+    "categoria": "Empanadas",
+    "demanda_diaria": {}
+  },
+  "empanada_pollo": {
+    "id": "empanada_pollo",
+    "nombre": "empanada de pollo",
+    "masa_id": "masa_tradicional",
+    "insumos_extra": {
+      "pollo": 0.02,
+      "cebolla": 0.01
+    },
+    "precio_venta": 2300.0,
+    "demanda_estimada": 25,
+    "categoria": "Empanadas",
+    "demanda_diaria": {}
+  },
+  "empanada_queso": {
+    "id": "empanada_queso",
+    "nombre": "empanada de queso",
+    "masa_id": "masa_tradicional",
+    "insumos_extra": {
+      "queso": 0.015
+    },
+    "precio_venta": 2000.0,
+    "demanda_estimada": 35,
+    "categoria": "Empanadas",
+    "demanda_diaria": {}
+  },
+  "pastel_yuca": {
+    "id": "pastel_yuca",
+    "nombre": "pastel de yuca",
+    "masa_id": "masa_yuca",
+    "insumos_extra": {
+      "carne_molida": 0.03,
+      "cebolla": 0.01
+    },
+    "precio_venta": 4000.0,
+    "demanda_estimada": 15,
+    "categoria": "Platos principales",
+    "demanda_diaria": {}
+  },
+  "carimañola": {
+    "id": "carimañola",
+    "nombre": "carimañola",
+    "masa_id": "masa_yuca",
+    "insumos_extra": {
+      "carne_molida": 0.035,
+      "cebolla": 0.015,
+      "aji": 0.005
+    },
+    "precio_venta": 3800.0,
+    "demanda_estimada": 12,
+    "categoria": "Platos principales",
+    "demanda_diaria": {}
+  },
+  "arepa_queso": {
+    "id": "arepa_queso",
+    "nombre": "arepa con queso",
+    "masa_id": "masa_arepa",
+    "insumos_extra": {
+      "queso": 0.01
+    },
+    "precio_venta": 1800.0,
+    "demanda_estimada": 40,
+    "categoria": "Arepas",
+    "demanda_diaria": {}
+  },
+  "arepa_huevo": {
+    "id": "arepa_huevo",
+    "nombre": "arepa con huevo",
+    "masa_id": "masa_arepa",
+    "insumos_extra": {
+      "huevo": 0.1,
+      "queso": 0.005
+    },
+    "precio_venta": 2500.0,
+    "demanda_estimada": 35,
+    "categoria": "Arepas",
+    "demanda_diaria": {}
+  },
+  "deditos_queso": {
+    "id": "deditos_queso",
+    "nombre": "deditos de queso",
+    "masa_id": "masa_tradicional",
+    "insumos_extra": {
+      "queso": 0.02
+    },
+    "precio_venta": 1500.0,
+    "demanda_estimada": 30,
+    "categoria": "Fritos",
+    "demanda_diaria": {}
+  },
+  "bunuelos_frijol": {
+    "id": "bunuelos_frijol",
+    "nombre": "buñuelos de frijol",
+    "masa_id": null,
+    "insumos_extra": {
+      "frijol": 0.05,
+      "queso": 0.01,
+      "huevo": 0.05
+    },
+    "precio_venta": 1500.0,
+    "demanda_estimada": 25,
+    "categoria": "Fritos",
+    "demanda_diaria": {}
+  },
+  "panzerotti": {
+    "id": "panzerotti",
+    "nombre": "panzerotti",
+    "masa_id": "masa_tradicional",
+    "insumos_extra": {
+      "queso": 0.02,
+      "salsa_tomate": 0.01
+    },
+    "precio_venta": 4000.0,
+    "demanda_estimada": 15,
+    "categoria": "Fritos",
+    "demanda_diaria": {}
+  }
+}

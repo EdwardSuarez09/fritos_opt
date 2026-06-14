@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "mes": "mayo",
+    "anio": 2026,
+    "dias_operacion": 26,
+    "moneda": "COP",
+    "notas": "Historial simulado de un mes de operacion del puesto de fritos"
+  },
+  "compras": {
+    "semana_1": {
+      "fecha_inicio": "2026-05-01",
+      "fecha_fin": "2026-05-07",
+      "total_gastado": 1845000,
+      "detalle": [
+        { "insumo_id": "harina_trigo", "cantidad": 8, "unidad": "kg", "precio_unidad": 2800, "total": 22400 },
+        { "insumo_id": "aceite", "cantidad": 5, "unidad": "L", "precio_unidad": 7800, "total": 39000 },
+        { "insumo_id": "carne_molida", "cantidad": 4, "unidad": "lb", "precio_unidad": 11500, "total": 46000 },
+        { "insumo_id": "pollo", "cantidad": 3, "unidad": "lb", "precio_unidad": 7800, "total": 23400 },
+        { "insumo_id": "queso", "cantidad": 2, "unidad": "lb", "precio_unidad": 9800, "total": 19600 },
+        { "insumo_id": "maiz", "cantidad": 10, "unidad": "lb", "precio_unidad": 1900, "total": 19000 },
+        { "insumo_id": "huevo", "cantidad": 60, "unidad": "unidad", "precio_unidad": 280, "total": 16800 },
+        { "insumo_id": "papas", "cantidad": 8, "unidad": "lb", "precio_unidad": 1900, "total": 15200 },
+        { "insumo_id": "cebolla", "cantidad": 4, "unidad": "lb", "precio_unidad": 1400, "total": 5600 },
+        { "insumo_id": "yuca", "cantidad": 6, "unidad": "lb", "precio_unidad": 2400, "total": 14400 },
+        { "insumo_id": "empaque_papel", "cantidad": 400, "unidad": "unidad", "precio_unidad": 48, "total": 19200 }
+      ]
+    },
+    "semana_2": {
+      "fecha_inicio": "2026-05-08",
+      "fecha_fin": "2026-05-14",
+      "total_gastado": 1920000,
+      "detalle": [
+        { "insumo_id": "harina_trigo", "cantidad": 8, "unidad": "kg", "precio_unidad": 2900, "total": 23200 },
+        { "insumo_id": "aceite", "cantidad": 5, "unidad": "L", "precio_unidad": 7900, "total": 39500 },
+        { "insumo_id": "carne_molida", "cantidad": 4, "unidad": "lb", "precio_unidad": 11800, "total": 47200 },
+        { "insumo_id": "pollo", "cantidad": 3, "unidad": "lb", "precio_unidad": 7900, "total": 23700 },
+        { "insumo_id": "queso", "cantidad": 2, "unidad": "lb", "precio_unidad": 9900, "total": 19800 },
+        { "insumo_id": "maiz", "cantidad": 10, "unidad": "lb", "precio_unidad": 1950, "total": 19500 },
+        { "insumo_id": "huevo", "cantidad": 60, "unidad": "unidad", "precio_unidad": 290, "total": 17400 },
+        { "insumo_id": "papas", "cantidad": 8, "unidad": "lb", "precio_unidad": 1950, "total": 15600 },
+        { "insumo_id": "cebolla", "cantidad": 4, "unidad": "lb", "precio_unidad": 1450, "total": 5800 },
+        { "insumo_id": "yuca", "cantidad": 6, "unidad": "lb", "precio_unidad": 2450, "total": 14700 },
+        { "insumo_id": "empaque_papel", "cantidad": 400, "unidad": "unidad", "precio_unidad": 48, "total": 19200 }
+      ]
+    },
+    "semana_3": {
+      "fecha_inicio": "2026-05-15",
+      "fecha_fin": "2026-05-21",
+      "total_gastado": 2105000,
+      "detalle": [
+        { "insumo_id": "harina_trigo", "cantidad": 9, "unidad": "kg", "precio_unidad": 3100, "total": 27900 },
+        { "insumo_id": "aceite", "cantidad": 6, "unidad": "L", "precio_unidad": 8200, "total": 49200 },
+        { "insumo_id": "carne_molida", "cantidad": 5, "unidad": "lb", "precio_unidad": 12200, "total": 61000 },
+        { "insumo_id": "pollo", "cantidad": 3, "unidad": "lb", "precio_unidad": 8100, "total": 24300 },
+        { "insumo_id": "queso", "cantidad": 2, "unidad": "lb", "precio_unidad": 10200, "total": 20400 },
+        { "insumo_id": "maiz", "cantidad": 10, "unidad": "lb", "precio_unidad": 2000, "total": 20000 },
+        { "insumo_id": "huevo", "cantidad": 65, "unidad": "unidad", "precio_unidad": 300, "total": 19500 },
+        { "insumo_id": "papas", "cantidad": 9, "unidad": "lb", "precio_unidad": 2000, "total": 18000 },
+        { "insumo_id": "cebolla", "cantidad": 5, "unidad": "lb", "precio_unidad": 1500, "total": 7500 },
+        { "insumo_id": "yuca", "cantidad": 7, "unidad": "lb", "precio_unidad": 2500, "total": 17500 },
+        { "insumo_id": "empaque_papel", "cantidad": 450, "unidad": "unidad", "precio_unidad": 50, "total": 22500 }
+      ]
+    },
+    "semana_4": {
+      "fecha_inicio": "2026-05-22",
+      "fecha_fin": "2026-05-28",
+      "total_gastado": 2058000,
+      "detalle": [
+        { "insumo_id": "harina_trigo", "cantidad": 8, "unidad": "kg", "precio_unidad": 3000, "total": 24000 },
+        { "insumo_id": "aceite", "cantidad": 5, "unidad": "L", "precio_unidad": 8000, "total": 40000 },
+        { "insumo_id": "carne_molida", "cantidad": 4, "unidad": "lb", "precio_unidad": 12000, "total": 48000 },
+        { "insumo_id": "pollo", "cantidad": 3, "unidad": "lb", "precio_unidad": 8000, "total": 24000 },
+        { "insumo_id": "queso", "cantidad": 2, "unidad": "lb", "precio_unidad": 10000, "total": 20000 },
+        { "insumo_id": "maiz", "cantidad": 10, "unidad": "lb", "precio_unidad": 2000, "total": 20000 },
+        { "insumo_id": "huevo", "cantidad": 60, "unidad": "unidad", "precio_unidad": 300, "total": 18000 },
+        { "insumo_id": "papas", "cantidad": 8, "unidad": "lb", "precio_unidad": 2000, "total": 16000 },
+        { "insumo_id": "cebolla", "cantidad": 4, "unidad": "lb", "precio_unidad": 1500, "total": 6000 },
+        { "insumo_id": "yuca", "cantidad": 6, "unidad": "lb", "precio_unidad": 2500, "total": 15000 },
+        { "insumo_id": "empaque_papel", "cantidad": 400, "unidad": "unidad", "precio_unidad": 50, "total": 20000 }
+      ]
+    }
+  },
+  "ventas": {
+    "por_producto": {
+      "empanada_carne": {
+        "unidades_vendidas": 620,
+        "ingreso_total": 1550000,
+        "precio_promedio": 2500,
+        "mejor_dia": { "fecha": "2026-05-17", "unidades": 38 },
+        "peor_dia": { "fecha": "2026-05-06", "unidades": 12 }
+      },
+      "empanada_pollo": {
+        "unidades_vendidas": 480,
+        "ingreso_total": 1104000,
+        "precio_promedio": 2300
+      },
+      "empanada_queso": {
+        "unidades_vendidas": 710,
+        "ingreso_total": 1420000,
+        "precio_promedio": 2000
+      },
+      "papa_rellena": {
+        "unidades_vendidas": 340,
+        "ingreso_total": 1190000,
+        "precio_promedio": 3500
+      },
+      "pastel_yuca": {
+        "unidades_vendidas": 180,
+        "ingreso_total": 720000,
+        "precio_promedio": 4000
+      },
+      "carimañola": {
+        "unidades_vendidas": 210,
+        "ingreso_total": 798000,
+        "precio_promedio": 3800
+      },
+      "arepa_queso": {
+        "unidades_vendidas": 520,
+        "ingreso_total": 936000,
+        "precio_promedio": 1800
+      },
+      "arepa_huevo": {
+        "unidades_vendidas": 390,
+        "ingreso_total": 975000,
+        "precio_promedio": 2500
+      }
+    },
+    "por_semana": {
+      "semana_1": { "unidades": 720, "ingreso": 1780000 },
+      "semana_2": { "unidades": 810, "ingreso": 1995000 },
+      "semana_3": { "unidades": 920, "ingreso": 2260000 },
+      "semana_4": { "unidades": 800, "ingreso": 1968000 }
+    },
+    "resumen_mes": {
+      "total_unidades": 3450,
+      "ingreso_bruto": 8003000,
+      "gasto_insumos": 7928000,
+      "ganancia_estimada": 75000,
+      "nota": "Mayo con subida de precios en semana 3; util para analisis de sensibilidad"
+    }
+  },
+  "variacion_precios": {
+    "harina_trigo": { "min": 2800, "max": 3100, "promedio": 2950, "variacion_pct": 10.7 },
+    "aceite": { "min": 7800, "max": 8200, "promedio": 7975, "variacion_pct": 5.1 },
+    "carne_molida": { "min": 11500, "max": 12200, "promedio": 11875, "variacion_pct": 6.1 },
+    "pollo": { "min": 7800, "max": 8100, "promedio": 7950, "variacion_pct": 3.8 },
+    "queso": { "min": 9800, "max": 10200, "promedio": 9975, "variacion_pct": 4.1 },
+    "maiz": { "min": 1900, "max": 2000, "promedio": 1962, "variacion_pct": 5.3 },
+    "huevo": { "min": 280, "max": 300, "promedio": 292, "variacion_pct": 7.1 },
+    "papas": { "min": 1900, "max": 2000, "promedio": 1962, "variacion_pct": 5.3 },
+    "cebolla": { "min": 1400, "max": 1500, "promedio": 1462, "variacion_pct": 7.1 },
+    "yuca": { "min": 2400, "max": 2500, "promedio": 2462, "variacion_pct": 4.2 }
+  }
+}

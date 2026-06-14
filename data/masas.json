@@ -1,0 +1,53 @@
+{
+  "masa_tradicional": {
+    "id": "masa_tradicional",
+    "nombre": "masa tradicional",
+    "cantidad_total": 20.0,
+    "unidad": "kg",
+    "insumos_usados": {
+      "harina_trigo": 10.0,
+      "aceite": 2.0,
+      "huevo": 12.0,
+      "sal": 0.5
+    },
+    "rendimiento": {
+      "papa_rellena": 50,
+      "empanada_carne": 80,
+      "empanada_pollo": 80,
+      "empanada_queso": 70,
+      "deditos_queso": 90,
+      "panzerotti": 40
+    }
+  },
+  "masa_yuca": {
+    "id": "masa_yuca",
+    "nombre": "masa de yuca",
+    "cantidad_total": 15.0,
+    "unidad": "kg",
+    "insumos_usados": {
+      "yuca": 12.0,
+      "aceite": 1.5,
+      "huevo": 6.0,
+      "sal": 0.3
+    },
+    "rendimiento": {
+      "pastel_yuca": 40,
+      "carimañola": 45
+    }
+  },
+  "masa_arepa": {
+    "id": "masa_arepa",
+    "nombre": "masa para arepas",
+    "cantidad_total": 25.0,
+    "unidad": "kg",
+    "insumos_usados": {
+      "maiz": 20.0,
+      "aceite": 1.0,
+      "sal": 0.5
+    },
+    "rendimiento": {
+      "arepa_queso": 100,
+      "arepa_huevo": 100
+    }
+  }
+}

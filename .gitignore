@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Editores / IDE
+.idea/
+*.swp
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+
+# Reportes generados
+*.xlsx
+optimizacion_resultados.xlsx

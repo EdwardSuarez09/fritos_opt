@@ -1,0 +1,20 @@
+p: cuanto vendi el mes pasado ?r: HISTORIAL_VENTAS_MES
+p: cuanto vendi en mayo ?r: HISTORIAL_VENTAS_MES
+p: cuanto fue mi ingreso en mayo ?r: HISTORIAL_VENTAS_MES
+p: cuanto dinero entre en mayo ?r: HISTORIAL_VENTAS_MES
+p: cuantas unidades vendi ?r: HISTORIAL_UNIDADES_MES
+p: cuantas unidades vendi en mayo ?r: HISTORIAL_UNIDADES_MES
+p: cuanto vendi en unidades ?r: HISTORIAL_UNIDADES_MES
+p: cual producto vendio mas ?r: HISTORIAL_PRODUCTO_TOP
+p: que producto se vende mas ?r: HISTORIAL_PRODUCTO_TOP
+p: cual fue el producto estrella ?r: HISTORIAL_PRODUCTO_TOP
+p: cual producto vendio menos ?r: HISTORIAL_PRODUCTO_PEOR
+p: que producto vendio menos ?r: HISTORIAL_PRODUCTO_PEOR
+p: cuales son los productos mas vendidos ?r: HISTORIAL_TOP_PRODUCTOS
+p: top 3 productos ?r: HISTORIAL_TOP_PRODUCTOS
+p: que semana vendi mas ?r: HISTORIAL_SEMANA_TOP
+p: cual fue la mejor semana de ventas ?r: HISTORIAL_SEMANA_TOP
+p: cuanto gane en mayo ?r: HISTORIAL_GANANCIA_MES
+p: cual fue mi ganancia del mes ?r: HISTORIAL_GANANCIA_MES
+p: gane o perdi en mayo ?r: HISTORIAL_GANANCIA_MES
+p: cuanto fue la utilidad del mes ?r: HISTORIAL_GANANCIA_MES

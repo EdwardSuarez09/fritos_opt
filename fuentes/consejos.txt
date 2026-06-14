@@ -1,0 +1,17 @@
+p: que es analisis de sensibilidad ?r: Mide como cambios en precios de insumos afectan tus costos y ganancias por producto en pesos colombianos
+p: para que sirve el analisis de sensibilidad ?r: Te ayuda a decidir si subir precios de venta, cambiar proveedor o reducir uso de un insumo antes de que te afecte
+p: que es sensibilidad ?r: Es ver que tan sensible es tu negocio cuando suben o bajan los precios de lo que compras
+p: que pasa si suben todos los precios ?r: ESCENARIO_PESIMISTA
+p: peor caso de precios ?r: ESCENARIO_PESIMISTA
+p: escenario pesimista ?r: ESCENARIO_PESIMISTA
+p: mejor caso de precios ?r: ESCENARIO_OPTIMISTA
+p: que pasa si bajan los precios ?r: ESCENARIO_OPTIMISTA
+p: escenario optimista ?r: ESCENARIO_OPTIMISTA
+p: como funciona el bot ?r: Puedes preguntarme sobre historial de ventas en COP, variacion de precios o simular cambios como que pasa si la harina sube 15 por ciento
+p: que puedo preguntar ?r: Pregunta por ventas del mes, costos, ganancias, insumos que subieron, rentabilidad de productos o simula cambios de precio
+p: que debo hacer si sube la harina ?r: Revisa si puedes subir el precio de venta, buscar otro proveedor o reducir la cantidad de harina por producto
+p: que debo hacer si suben los precios ?r: Analiza que productos te afectan mas, ajusta precios de venta o negocia con proveedores
+p: como proteger mis ganancias ?r: Monitorea los insumos que mas suben, ajusta precios de venta y enfocate en los productos mas rentables
+p: cuando debo subir precios de venta ?r: Cuando el costo de insumos sube y tu ganancia por unidad baja mas del 10 por ciento
+p: que es margen de ganancia ?r: Es la diferencia entre lo que vendes y lo que te cuesta producir cada producto
+p: que es costo unitario ?r: Es cuanto te cuesta hacer una sola unidad de un producto incluyendo masa relleno aceite y empaque

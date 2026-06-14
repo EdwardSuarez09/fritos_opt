@@ -1,0 +1,130 @@
+{
+  "maiz": {
+    "id": "maiz",
+    "nombre": "maiz",
+    "cantidad": 50.0,
+    "unidad": "lb",
+    "precio_unidad": 2000.0,
+    "categoria": "Masa tradicional"
+  },
+  "harina_trigo": {
+    "id": "harina_trigo",
+    "nombre": "harina de trigo",
+    "cantidad": 30.0,
+    "unidad": "kg",
+    "precio_unidad": 3000.0,
+    "categoria": "Masa tradicional"
+  },
+  "aceite": {
+    "id": "aceite",
+    "nombre": "aceite",
+    "cantidad": 20.0,
+    "unidad": "L",
+    "precio_unidad": 8000.0,
+    "categoria": "Aceite"
+  },
+  "huevo": {
+    "id": "huevo",
+    "nombre": "huevo",
+    "cantidad": 60.0,
+    "unidad": "unidad",
+    "precio_unidad": 300.0,
+    "categoria": "Masa tradicional"
+  },
+  "papas": {
+    "id": "papas",
+    "nombre": "papas",
+    "cantidad": 40.0,
+    "unidad": "lb",
+    "precio_unidad": 2000.0,
+    "categoria": "Relleno"
+  },
+  "carne": {
+    "id": "carne",
+    "nombre": "carne",
+    "cantidad": 15.0,
+    "unidad": "lb",
+    "precio_unidad": 12000.0,
+    "categoria": "Relleno"
+  },
+  "carne_molida": {
+    "id": "carne_molida",
+    "nombre": "carne molida",
+    "cantidad": 15.0,
+    "unidad": "lb",
+    "precio_unidad": 12000.0,
+    "categoria": "Relleno"
+  },
+  "pollo": {
+    "id": "pollo",
+    "nombre": "pollo",
+    "cantidad": 10.0,
+    "unidad": "lb",
+    "precio_unidad": 8000.0,
+    "categoria": "Relleno"
+  },
+  "queso": {
+    "id": "queso",
+    "nombre": "queso",
+    "cantidad": 8.0,
+    "unidad": "lb",
+    "precio_unidad": 10000.0,
+    "categoria": "Relleno"
+  },
+  "yuca": {
+    "id": "yuca",
+    "nombre": "yuca",
+    "cantidad": 25.0,
+    "unidad": "lb",
+    "precio_unidad": 2500.0,
+    "categoria": "Masa de yuca"
+  },
+  "cebolla": {
+    "id": "cebolla",
+    "nombre": "cebolla",
+    "cantidad": 20.0,
+    "unidad": "lb",
+    "precio_unidad": 1500.0,
+    "categoria": "Relleno"
+  },
+  "sal": {
+    "id": "sal",
+    "nombre": "sal",
+    "cantidad": 5.0,
+    "unidad": "kg",
+    "precio_unidad": 2000.0,
+    "categoria": "Otros"
+  },
+  "empaque_papel": {
+    "id": "empaque_papel",
+    "nombre": "empaque de papel",
+    "cantidad": 500.0,
+    "unidad": "unidad",
+    "precio_unidad": 50.0,
+    "categoria": "Otros"
+  },
+  "salsa_tomate": {
+    "id": "salsa_tomate",
+    "nombre": "salsa de tomate",
+    "cantidad": 10.0,
+    "unidad": "L",
+    "precio_unidad": 5000.0,
+    "categoria": "Salsas"
+  },
+  "aji": {
+    "id": "aji",
+    "nombre": "aji",
+    "cantidad": 2.0,
+    "unidad": "lb",
+    "precio_unidad": 3000.0,
+    "categoria": "Salsas"
+  },
+  "frijol": {
+    "id": "frijol",
+    "nombre": "frijol",
+    "cantidad": 12.0,
+    "unidad": "lb",
+    "precio_unidad": 4500.0,
+    "categoria": "Relleno"
+  }
+}

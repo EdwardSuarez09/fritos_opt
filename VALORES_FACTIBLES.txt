@@ -1,0 +1,57 @@
+===========================================
+VALORES QUE GARANTIZAN SOLUCION FACTIBLE
+===========================================
+
+IMPORTANTE: Después de cambiar los datos JSON, debes:
+1. Recargar los datos en cada pestaña (botón "Recargar")
+2. Usar estos valores EXACTOS en la optimización
+
+===========================================
+OPCION 1: EMPANADA DE QUESO (MAS BARATA)
+===========================================
+Producto: empanada de queso
+Demanda diaria: 10 unidades (todos los días)
+Presupuesto diario: 12000 (todos los días)
+
+Resultado esperado: ÓPTIMO con ganancia positiva
+
+===========================================
+OPCION 2: EMPANADA DE POLLO
+===========================================
+Producto: empanada de pollo
+Demanda diaria: 10 unidades (todos los días)
+Presupuesto diario: 13000 (todos los días)
+
+Resultado esperado: ÓPTIMO con ganancia positiva
+
+===========================================
+OPCION 3: PAPA RELLENA (20 unidades)
+===========================================
+Producto: papa rellena
+Demanda diaria: 20 unidades (todos los días)
+Presupuesto diario: 40000 (todos los días)
+
+Resultado esperado: ÓPTIMO con ganancia positiva
+
+===========================================
+FORMULA RAPIDA:
+===========================================
+Presupuesto Mínimo = (Costo Unitario × Demanda) × 1.2
+
+Ejemplo empanada de queso:
+- Costo: ~$1,000/unidad
+- Demanda: 10 unidades
+- Presupuesto mínimo: 10 × 1,000 × 1.2 = $12,000/día
+
+===========================================
+PASOS PARA PROBAR:
+===========================================
+1. Recarga datos (botón "Recargar" en cada pestaña)
+2. Ve a "Optimización"
+3. Selecciona "empanada de queso"
+4. Demanda: 10 (todos los días)
+5. Presupuesto: 12000 (todos los días)
+6. Clic en "Resolver Optimización"
+
+¡DEBE FUNCIONAR!
+
