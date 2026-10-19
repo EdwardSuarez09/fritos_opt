@@ -48,6 +48,8 @@ Dependencias principales:
 
 ```
 fritos_opt/
+├── docs/
+│   └── (manuales y documentación del proyecto)
 ├── core/
 │   ├── __init__.py
 │   ├── json_manager.py
@@ -85,6 +87,9 @@ fritos_opt/
 │   └── historial_mensual.json
 ├── tests/
 │   └── (pruebas unitarias de cada módulo)
+├── scripts/
+│   └── (herramientas de análisis y depuración)
+├── .gitignore
 ├── main.py
 ├── requirements.txt
 └── README.md

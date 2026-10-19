@@ -2,7 +2,9 @@
 Script para verificar factibilidad y calcular valores exactos
 """
 import sys
-sys.path.insert(0, 'fritos_opt')
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from core.insumos import InsumoManager
 from core.masas import MasaManager
@@ -66,4 +68,3 @@ if producto:
     print(f"    - Producto: empanada de queso")
     print(f"    - Demanda: {demanda} (todos los dias)")
     print(f"    - Presupuesto: {presupuesto} (todos los dias)")
-

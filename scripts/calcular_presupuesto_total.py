@@ -2,7 +2,9 @@
 Script para calcular el presupuesto diario necesario para TODOS los productos
 """
 import sys
-sys.path.insert(0, 'fritos_opt')
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from core.insumos import InsumoManager
 from core.masas import MasaManager
@@ -64,4 +66,3 @@ print(f"Presupuesto diario (mínimo):  {int(costo_total_diario):,}")
 print(f"Presupuesto diario (recomendado): {int(costo_total_diario * 1.2):,}")
 print()
 print("Ingresa estos valores en TODOS los días de la semana")
-

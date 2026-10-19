@@ -2,7 +2,9 @@
 Script para calcular y mostrar los costos reales de los productos
 """
 import sys
-sys.path.insert(0, '.')
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from core.insumos import InsumoManager
 from core.masas import MasaManager
@@ -108,4 +110,3 @@ if productos_no_rentables > 0:
     print("   1. Aumentar los precios de venta")
     print("   2. Reducir los precios de los insumos")
     print("   3. Reducir las cantidades de insumos extra en los productos")
-

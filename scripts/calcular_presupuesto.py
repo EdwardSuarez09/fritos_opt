@@ -2,7 +2,9 @@
 Script para calcular el presupuesto mínimo necesario
 """
 import sys
-sys.path.insert(0, '.')
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from core.insumos import InsumoManager
 from core.masas import MasaManager
@@ -57,4 +59,3 @@ if producto:
     print(f"RECOMENDACION:")
     print(f"  - Presupuesto diario MINIMO: ${int(presupuesto_diario * 1.1):,} (con 10% margen)")
     print(f"  - O reduce la demanda a 5-10 unidades/dia")
-

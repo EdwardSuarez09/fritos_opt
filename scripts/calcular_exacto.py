@@ -2,7 +2,9 @@
 Script para calcular costos exactos y presupuesto necesario
 """
 import sys
-sys.path.insert(0, 'fritos_opt')
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from core.insumos import InsumoManager
 from core.masas import MasaManager
@@ -40,4 +42,3 @@ for producto_id in productos_test:
         print()
         print("-" * 80)
         print()
-

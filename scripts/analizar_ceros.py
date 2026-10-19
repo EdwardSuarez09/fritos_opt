@@ -2,7 +2,9 @@
 Script para analizar por qué algunos productos aparecen en cero en la optimización
 """
 import sys
-sys.path.insert(0, 'fritos_opt')
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from core.insumos import InsumoManager
 from core.masas import MasaManager
@@ -74,4 +76,3 @@ print("Para que TODOS los productos aparezcan con producción:")
 print("1. Especifica demanda mínima para cada producto que quieras producir")
 print("2. Asegúrate de tener suficiente presupuesto para cubrir todas las demandas")
 print("3. Verifica que todos los productos tengan ganancia positiva")
-

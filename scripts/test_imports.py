@@ -2,10 +2,10 @@
 Script de prueba para verificar que todas las importaciones funcionan
 """
 import sys
-import os
+from pathlib import Path
 
-# Agregar el directorio actual al path
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+# Agregar la raíz del proyecto al path al ejecutarse desde scripts/.
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 try:
     print("Probando importaciones...")
@@ -43,4 +43,3 @@ try:
 except ImportError as e:
     print(f"[ERROR] Error de importacion: {e}")
     sys.exit(1)
-
